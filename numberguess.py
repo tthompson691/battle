@@ -28,15 +28,13 @@ while running:
             guess_rangel = guess
             print("You pressed up", i)
             i += 1
-            if not keyboard.is_pressed('up'):
-                keypressed = True
+			keypressed = True
 
         elif keyboard.is_pressed('down'):
             guess_rangeh = guess
             print("You pressed down", i)
             i += 1
-            if not keyboard.is_pressed('down'):
-                keypressed = True
+			keypressed = True
 
         elif keyboard.is_pressed('enter'):
             print("I win!")
