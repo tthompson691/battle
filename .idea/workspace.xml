@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58024ca9-8d1a-45ee-adda-e68dd56faf2a" name="Default Changelist" comment="" />
+    <list default="true" id="58024ca9-8d1a-45ee-adda-e68dd56faf2a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numberguess.py" beforeDir="false" afterPath="$PROJECT_DIR$/numberguess.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YlSqi5c9a4wF8anxDOFlbV9AQp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -95,9 +103,9 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.keyboardtest" />
       <item itemvalue="Python.main" />
       <item itemvalue="Python.numberguess" />
-      <item itemvalue="Python.keyboardtest" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -142,11 +150,11 @@
     </state>
     <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584242111824" />
     <state width="1899" height="295" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584799884745" />
-    <state x="1136" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1584800590737">
+    <state x="1136" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1584805219300">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1136" y="346" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584239473036" />
-    <state x="1136" y="346" key="com.intellij.ide.util.TipDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584800590737" />
+    <state x="1136" y="346" key="com.intellij.ide.util.TipDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584805219300" />
     <state x="656" y="118" width="607" height="804" key="find.popup" timestamp="1584138195479">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

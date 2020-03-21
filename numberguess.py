@@ -4,6 +4,7 @@ import random, keyboard
 # User thinks of a number between 1 and 1000, then program will figure it out in a few guesses
 input("Think of your number between 1 and 1000. Press Enter to continue.")
 
+# comment test
 running = True
 
 guess_rangeh = 1000

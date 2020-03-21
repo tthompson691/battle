@@ -2,6 +2,8 @@ from Classes.game import Person, bcolors
 from Classes.magic import Spell
 from Classes.inventory import Item
 
+#comment text 2
+
 print("\n\n")
 print("NAME                           HP                                     MP")
 print("                               _________________________              __________")
