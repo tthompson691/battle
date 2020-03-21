@@ -1,6 +1,5 @@
 import random, keyboard
 
-
 # User thinks of a number between 1 and 1000, then program will figure it out in a few guesses
 input("Think of your number between 1 and 1000. Press Enter to continue.")
 
@@ -18,10 +17,8 @@ while running:
 
     keypressed = False
     i = 0
-    
 
     while not keypressed:
-
         selection = keyboard.read_key()
 
         if keyboard.is_pressed('up'):
@@ -41,8 +38,3 @@ while running:
         elif keyboard.is_pressed('enter'):
             print("I win!")
             running = False
-
-
-
-
-
