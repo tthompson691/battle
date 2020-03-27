@@ -12,7 +12,7 @@ guess_rangel = 1
 while running:
     guess = random.randrange(guess_rangel, guess_rangeh)
 
-    print("Is", str(guess), "your number? \n Press UP ARROW if your number is higher, DOWN ARROW if your number is"
+    print("Is", str(guess), "your number? \n Press UP ARROW if your number is higher, DOWN ARROW if your number is "
                             "lower, or ENTER if correct.")
 
     keypressed = False
@@ -24,6 +24,7 @@ while running:
         if keyboard.is_pressed('up'):
             guess_rangel = guess
             print("You pressed up", i)
+
             i += 1
             #test this
             keypressed = True
@@ -38,3 +39,4 @@ while running:
         elif keyboard.is_pressed('enter'):
             print("I win!")
             running = False
+            keypressed = True
